@@ -8,6 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=BRIANALP&label=Profile%20views&color=0e75b6&style=flat" alt="BRIANALP" /> </p>
 
 - 🌱 I’m currently a continuing student in Computer Science at Jomo Kenyatta University
+- 🐱‍👤 Coding ninja that enjoys web application development spiced with machine learning.
 
 - 📫 Reach me at **kimemiabrian87@gmail.com**
 
