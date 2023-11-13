@@ -5,8 +5,8 @@
 <h3 align="center">A computer science undergraduate.</h3>
 
 <div id="header" align="center">
-<img src="[https://media.giphy.com/media/Zy7s96dP38MlQe3OjG/giphy.gif](https://www.canva.com/design/DAF0CVEjMY0/ogzY6E8HRfgvWt_-1n0tcw/view?utm_content=DAF0CVEjMY0&utm_campaign=designshare&utm_medium=link&utm_source=editor)" width="350"/>
-<h3 align="center">A computer science undergraduate.</h3>
+<img src="https://www.canva.com/design/DAF0CVEjMY0/ogzY6E8HRfgvWt_-1n0tcw/view?utm_content=DAF0CVEjMY0&utm_campaign=designshare&utm_medium=link&utm_source=editor" width="350"/>
+
  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=BRIANALP&label=Profile%20views&color=0e75b6&style=flat" alt="BRIANALP" /> </p>
